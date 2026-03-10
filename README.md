@@ -13,3 +13,8 @@ git checkout
 git merge
 ## Additional info 
 This branch adds a small improvement to the project.
+## Exercise stages
+1. Repository initialization
+2. README update
+3. Feature branch workflow
+4. Repository cleanup
