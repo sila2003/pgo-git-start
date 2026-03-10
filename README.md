@@ -11,3 +11,5 @@ git push
 git branch
 git checkout
 git merge
+## Additional info 
+This branch adds a small improvement to the project.
