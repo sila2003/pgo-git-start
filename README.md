@@ -18,3 +18,4 @@ This branch adds a small improvement to the project.
 2. README update
 3. Feature branch workflow
 4. Repository cleanup
+5. Update from feature-2 branch
